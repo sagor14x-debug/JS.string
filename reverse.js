@@ -10,11 +10,12 @@ const reversedCommit = reversedParts.join('');
 console.log(reversedCommit);
 
 
-// for loop:
+// // for loop:
 
-let reverseCom = '';
+// let reverseCom = '';
 
-for (const letter of commitment) {
-    reverseCom = letter + reverseCom;
-    console.log(letter, '=>' , reverseCom);
-}
+// for (const letter of commitment) {
+//     reverseCom = letter + reverseCom;
+//     console.log(letter, '=>' , reverseCom);
+// }
+

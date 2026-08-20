@@ -1,7 +1,7 @@
 const numbers = [34, 23, 56, 32, 65, 90, 99, 12];
 
 for (number of numbers) {
-    console.log(number);
+    // console.log(number);
 }
 
 // ################################################################################################################################
@@ -27,8 +27,8 @@ const keys = Object.keys(student);
 console.log(keys);
 
 for (const key of keys) {
-    console.log(key);
-    const value = student[key];
-    console.log(key, value);
+    // console.log(key);
+    // const value = student[key];
+    // console.log(key, value);
 
 }
